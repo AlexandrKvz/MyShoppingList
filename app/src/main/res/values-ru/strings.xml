@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Cписок покупок + блокнот</string>
+    <string name="inter_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="settings">Настройки</string>
+    <string name="notes">Заметки</string>
+    <string name="shop_list">Список покупок</string>
+    <string name="new_item">Новый</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_hint">Название</string>
+    <string name="description_hint">Описание</string>
+    <string name="save">Сохрнаить</string>
+    <string name="bold">Сохранить</string>
+    <string name="color">Цвет</string>
+
+    <string name="new_list">Новое название списка</string>
+    <string name="list_name">Название списка</string>
+    <string name="create_list">Создать список</string>
+    <string name="update">Изменить</string>
+    <string name="delete_item">Вы хотите удалить этот пункт</string>
+    <string name="delete_alert">Удалить</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_list">Удалить список</string>
+    <string name="clear_list">Очистить список</string>
+    <string name="share_list">Передать список</string>
+    <string name="new_items">Новый пункт</string>
+    <string name="save_item">Сохранить пункт</string>
+    <string name="empty">Пусто</string>
+    <string name="update_list_item">Изменить пункт списка</string>
+    <string name="name">Название</string>
+    <string name="item_info">Информация</string>
+    <string name="update_item">Изменить пункт</string>
+    <string name="general">Общие</string>
+    <string name="chose_note_style">Выбрать стиль</string>
+    <string name="chose_time_format">Выбрать формат времени</string>
+    <string name="remove_ads">Удалить рекламу</string>
+    <string name="remove_ads_summery">Удалить всю рекламу из этого приложения</string>
+    <string name="theme_settings">Настройка темы</string>
+    <string name="chose_theme">Выбрать тему</string>
+    <string name="note_text_settings">Настройка текста заметок</string>
+    <string name="title_text_size">Настройка текста заголовка</string>
+    <string name="content_text_size">Настройка текста описания</string>
+
+
+
+
+
+
+</resources>
